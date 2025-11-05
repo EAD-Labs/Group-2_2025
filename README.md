@@ -2,7 +2,9 @@
 
 An AI-powered mathematics education platform that helps students solve math problems with step-by-step explanations using Google Gemini AI.
 
-🔗 **Live Demo**: [https://ai-math-education-platform-dla49bhva.vercel.app](https://ai-math-education-platform-dla49bhva.vercel.app)
+## � Live Demo
+
+�🔗 **Live Demo**: [https://ai-math-education-platform.vercel.app](https://ai-math-education-platform.vercel.app)
 
 ## Features
 
