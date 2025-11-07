@@ -8,12 +8,12 @@ An AI-powered mathematics education platform that helps students solve math prob
 
 ## ✨ Features
 
-- 🤖 AI-powered math problem solver (text and image input)
-- 📝 Step-by-step solution explanations
-- 🧮 Interactive scientific calculator
-- 🔐 User authentication
-- 📊 Progress tracking dashboard
-- ✅ Answer verification system
+- 🤖 **AI-powered math problem solver** - Supports both text and image input
+- 📝 **Step-by-step solution explanations** - Detailed breakdown of problem-solving process
+- 🧮 **Interactive scientific calculator** - Advanced mathematical operations
+- 🔐 **User authentication** - Secure login and user management
+- 📊 **Progress tracking dashboard** - Monitor your learning journey
+- ✅ **Answer verification system** - Check your solutions instantly
 
 ## Tech Stack
 
